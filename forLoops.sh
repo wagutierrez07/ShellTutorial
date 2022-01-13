@@ -1,3 +1,1 @@
 #!/bin/bash
-
-Name="Walter"
