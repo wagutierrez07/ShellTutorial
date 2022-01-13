@@ -1,2 +1,3 @@
 #!/bin/bash
 
+Name="Walter"
